@@ -15,5 +15,7 @@ A simple tool based on `Scapy` to monitor DNS queries of a specific target on a 
 * `pip install -r requirements.txt` OR `apt-get install libpcap-dev AND` AND  `pip install scapy`.
 * `sudo python3 main.py`.
 
-
+## How use
+* Enter the ip tarr: (Enter your ip) example : '10.10.0.0/24'.
+* Enter the ip getway: example: '10.10.0.1'.
 
