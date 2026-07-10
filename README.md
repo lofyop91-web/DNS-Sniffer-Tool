@@ -9,3 +9,7 @@ A simple tool based on `Scapy` to monitor DNS queries of a specific target on a 
 * An operating system that supports `Scapy` (Kali Linux is recommended).
 * Python 3.x
 * Root/Administrator privileges (required for ARP packet manipulation).
+
+## Install in linux
+**git clone https://github.com/lofyop91-web/DNS-Sniffer-Tool.git
+** pip install -r requirements.txt
