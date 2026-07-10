@@ -12,4 +12,8 @@ A simple tool based on `Scapy` to monitor DNS queries of a specific target on a 
 
 ## Install in linux
 * `git clone https://github.com/lofyop91-web/DNS-Sniffer-Tool.git`.
-* `pip install -r requirements.txt`.
+* `pip install -r requirements.txt` OR `apt-get install libpcap-dev AND` AND  `pip install scapy`.
+* `sudo python3 main.py`.
+
+
+
